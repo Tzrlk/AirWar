@@ -29,4 +29,15 @@
         </dependencies>
     </dependencyManagement>
 
+    <issueManagement>
+        <system>github</system>
+        <url>https://github.com/Tzrlk/AirWar/issues</url>
+    </issueManagement>
+
+    <scm>
+        <connection>scm:git:https://github.com/Tzrlk/AirWar.git</connection>
+        <developerConnection>scm:git:git@github.com:Tzrlk/AirWar.git</developerConnection>
+        <url>https://github.com/Tzrlk/AirWar</url>
+    </scm>
+
 </project>
